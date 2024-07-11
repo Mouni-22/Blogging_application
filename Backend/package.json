@@ -11,7 +11,7 @@
     "scripts": {
     "build": "node --max-old-space-size=4096 node_modules/.bin/react-scripts build",
         
-    "start": "nodemon server.js "
+    "start": "node server.js "
     
     },
     
@@ -51,7 +51,7 @@
     "nodemailer": "^6.7.2",
     
         
-    "nodemon": "^2.0.15",
+    
     
         
     "path": "^0.12.7",
