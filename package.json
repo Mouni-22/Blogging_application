@@ -1,8 +1,8 @@
 {
-  "main":"Frontend/src/index.js",
+  "main":"src/index.mjs",
 
   "scripts":{
-    "start":"node Frontend/src/index.js"
+    "start":"node src/index.mjs"
   },
   
   "devDependencies": {
