@@ -1,4 +1,9 @@
 {
+  "name":"root",
+  "version":"1.0.0",
+  "scripts":{
+    "start":"concurrently\"cd backend && npm start\"\"cd frontend && npm start\"""
+  },
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
