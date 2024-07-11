@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "concurrently \"cd backend && npm start\" \"cd frontend && npm start\"",
-    "install-all": "npm install --prefix backend && npm install --prefix frontend",
-    "build": "cd ./frontend && npm run build"
+    "start": "concurrently \"cd Backend && npm start\" \"cd Frontend && npm start\"",
+    "install-all": "npm install --prefix Backend && npm install --prefix Frontend",
+    "build": "cd ./Frontend && npm run build"
   },
   "dependencies": {
     "concurrently": "^8.2.2"
