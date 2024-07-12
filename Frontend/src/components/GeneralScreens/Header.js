@@ -38,7 +38,7 @@ const Header = () => {
 
                 <Link to="/" className="logo">
                     <h5>
-                        Conduit
+                        Tech Blog
 
                     </h5>
                 </Link>
