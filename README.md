@@ -34,4 +34,4 @@ Pic of Login page
 ![WhatsApp Image 2024-07-11 at 16 29 11_1af2e57a](https://github.com/user-attachments/assets/c054d4b8-a4a7-4c89-b098-14cf12424a6b)
 
 Pic of Home page
-![WhatsApp Image 2024-07-11 at 16 29 11_1af2e57a](https://github.com/user-attachments/assets/6b63caf4-98f9-42c8-a7c1-e4067bddc70b)
+![WhatsApp Image 2024-07-11 at 16 29 11_1635205e](https://github.com/user-attachments/assets/4c39834b-71b1-4d2c-b26b-dd9e9421f7d6)
